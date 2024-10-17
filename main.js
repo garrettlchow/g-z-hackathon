@@ -68,8 +68,8 @@ affirmationDiv.style.width = '200px';
 affirmationDiv.style.height = 'auto';
 affirmationDiv.style.borderRadius = '20px';
 affirmationDiv.style.textAlign = 'center';
-
-affirmationDiv.style.fontFamily = 'Arial, sans-serif';
+affirmationDiv.style.color = '#333';
+affirmationDiv.style.fontFamily = '"Comic Sans MS", "Comic Sans", cursive';
 affirmationDiv.style.fontSize = '14px';
 affirmationDiv.style.transition = 'opacity 1s ease-in-out';
 affirmationDiv.style.zIndex = '10000'; // Ensures it stays on top of the page
